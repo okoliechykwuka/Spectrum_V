@@ -1,0 +1,57 @@
+ 
+ h1{
+     text-align: center;
+ }
+ .art{
+     margin: auto;
+ }
+ 
+td{
+    Height :  300px;
+    width : 100px; 
+    border: 6px solid white;
+    margin-right: 20%;
+    padding:20px;
+    
+    
+}
+
+
+#green{
+    background: rgba(59, 133, 59, 0.699);
+    
+}
+    
+    
+#skyblue{
+    background: violet;
+    
+    
+    
+}
+
+#blue{
+    background:blue;
+    
+    
+}
+#lightgreen{
+   
+    background:lightgreen;
+   
+}
+#brown{
+    background: rgb(133, 38, 38);
+    
+    
+    
+}
+#pink{
+    background: rgb(202, 108, 174);
+    
+    
+}
+#orange{
+    background: gray;
+   
+}
